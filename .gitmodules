@@ -1,0 +1,4 @@
+[submodule "martiblog/public"]
+	path = martiblog/public
+	url = https://github.com/santo0/santo0.github.io.git
+	branch = main
